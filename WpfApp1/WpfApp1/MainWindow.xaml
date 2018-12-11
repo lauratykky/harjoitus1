@@ -7,6 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <CheckBox Content="Tämä on checkbox" HorizontalAlignment="Left" Margin="398,169,0,0" VerticalAlignment="Top"/>
+        <Label Content="Tässä on otsikko" HorizontalAlignment="Left" Margin="378,99,0,0" VerticalAlignment="Top"/>
+
         <TextBox HorizontalAlignment="Left" Height="79" Margin="268,69,0,0" TextWrapping="Wrap" Text="Tekstiä" VerticalAlignment="Top" Width="169"/>
 
     </Grid>
